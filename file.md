@@ -11,7 +11,7 @@ Moving forward,
 provided their names for ease of identification into the team\.
 
 The motto of the team was
-<learn to grow\
+>learn to grow\
 
 throught the program\.
 
