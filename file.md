@@ -7,10 +7,10 @@ Moving forward,
 * Allan
 * Joyce
 * Jb
-* Ruth 
-provided their names for ease of identification into the team.
+* Ruth, 
+provided their names for ease of identification into the team.\
 The motto of the team was 
-< learn to grow
+    < learn to grow
 throught the program.\
 For the second bit of the training and mentorship, 
 random ![Bingo](https://img.freepik.com/free-vector/card-template-with-fireworks-party-horns_1308-3021.jpg?size=626&ext=jpg&ga=GA1.2.1849806295.1628726400) 
