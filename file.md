@@ -10,8 +10,8 @@ Moving forward,
 * Ruth, 
 provided their names for ease of identification into the team\.
 
-The motto of the team was 
-    < learn to grow
+The motto of the team was\,
+<learn to grow
 throught the program\.
 
 For the second bit of the training and mentorship, 
