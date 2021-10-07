@@ -15,7 +15,7 @@ The motto of the team was
 throught the program\.
 
 For the second bit of the training and mentorship, 
-random ![Bingo](https://img.freepik.com/free-vector/card-template-with-fireworks-party-horns_1308-3021.jpg?size=626&ext=jpg&ga=GA1.2.1849806295.1628726400) \
+random ![Bingo](https://img.freepik.com/free-vector/card-template-with-fireworks-party-horns_1308-3021.jpg?size=626&ext=jpg&ga=GA1.2.1849806295.1628726400) 
 
 were very essential in motivating the team\.
 
@@ -26,6 +26,14 @@ the following was the order of the names based on the first to finish
 3. Joyce
 4. JB
 
-
+The end was a short code that I managed to develop
+```
+# this is the code block 
+so that,
+if Jb finished first,
+then
+he was asked to work with Joyce
+fi
+````
        
   
